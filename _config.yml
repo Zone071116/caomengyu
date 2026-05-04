@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                   : "Yan Zhang's Homepage"
+title                   : "CMY's Homepage"
 description              : "A Distinguished Hundred Talents postdoctoral fellow at Beihang University."
 repository               : 
 
@@ -16,12 +16,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : Yan Zhang | 张艳
-  avatar           : "images/pic-id.png"
+  name             :曹檬羽
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "Beihang University"
   location         : "北京航空航天大学"
   pubmed           : 
-  email            : "773572772@qq.com"
+  email            : 
   researchgate     : https://shi.buaa.edu.cn/zhangyan12/zh_CN/index.htm"
   uri              :
   bitbucket        :
