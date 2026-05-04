@@ -221,7 +221,7 @@ Below are the core students and faculty collaborators from our team. You are wel
   <div class='paper-box-image'>
     <div>
       <div class="badge">cmy/div>
-      <img src='images/android-chrome-192x192.png' alt="洛克王国">
+      <img src='images/pic-rk' alt="洛克王国">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
